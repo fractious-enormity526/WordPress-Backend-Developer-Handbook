@@ -1,5 +1,9 @@
 # Roadmap
 
+<p align="center">
+<img src="assets/roadmap.png" alt="WordPress Backend Developer roadmap">
+</p>
+
 This handbook started as a personal learning resource.
 
 While preparing for senior WordPress backend positions, I found myself constantly jumping between the WordPress Developer Handbook, PHP documentation, blog posts, GitHub repositories and countless browser tabs.
