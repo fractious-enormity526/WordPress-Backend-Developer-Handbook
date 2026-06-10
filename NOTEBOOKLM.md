@@ -6,6 +6,10 @@ Instead of browsing hundreds of documentation pages or searching through bookmar
 
 The result is a personalized AI tutor that understands the material you're currently studying.
 
+<p align="center">
+<img src="assets/notebooklm.png" alt="WordPress Backend Developer NotebookLM possibilities">
+</p>
+
 ---
 
 # Why NotebookLM?
