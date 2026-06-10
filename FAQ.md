@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+<p align="center">
+<img src="assets/overview.png" alt="WordPress Backend Developer Overview">
+</p>
+
 Thank you for checking out the **WordPress Backend Developer Handbook**!
 
 This page answers the questions I expect people to ask most often. If your question isn't answered here, feel free to open an issue on GitHub.
